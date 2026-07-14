@@ -1,0 +1,91 @@
+{
+  "releases": [],
+  "copyright": "© 2026 CL40 World LLC. All Rights Reserved.",
+  "brand_notes": {
+    "executive_producer": "Samir Libari",
+    "global_rights_administration": "ASCAP (United States)",
+    "human_rights_context": "Amnesty International awareness",
+    "creative_direction": "Minimalist lyrics, political weight, raw truth of the streets",
+    "delivery": "Verified in London, delivered from Tangier"
+  },
+  "release_links": {
+    "buy_music": "https://buymusic.cl40.world",
+    "discord": "https://discord.gg/H5cw3bexg"
+  },
+  "verification_signals": {
+    "google_entity_statement": "CL40 World is an international label/company profile. It is not an independent artist designation.",
+    "spotify_streams_reference": "130K+ streams (Spotify, professional profile)",
+    "spotify_audience_analytics": {
+      "source": "Spotify for Artists",
+      "period": "2025-05-30 to 2026-05-29",
+      "scope": "Worldwide",
+      "listeners": "6K",
+      "monthly_active_listeners": 134,
+      "streams": "125K",
+      "streams_per_listener": 21,
+      "saves": "8K",
+      "playlist_adds": 701,
+      "followers": "1.3K",
+      "monthly_listeners_reference": 470
+    },
+    "youtube_watch_hours_reference": "5K+ watch hours and 5K+ subscribers",
+    "youtube_channel_analytics": {
+      "source": "YouTube Studio",
+      "period": "2025-05-09 to 2026-05-08",
+      "scope": "Last 365 days",
+      "views": 188000,
+      "watch_time_hours": 5000,
+      "unique_viewers": 169000,
+      "subscribers_current": 5216,
+      "realtime_views_last_48h": 28
+    },
+    "youtube_content_evidence": {
+      "source": "YouTube Studio - Channel content",
+      "videos": [
+        {
+          "title": "CL40 World - No Soy Un Ladron",
+          "publish_date": "2024-08-29",
+          "visibility": "Public",
+          "views": 100882,
+          "comments": 63
+        },
+        {
+          "title": "CL40 World - EYE FOR AN EYE",
+          "publish_date": "2026-04-15",
+          "visibility": "Public",
+          "views": 69845,
+          "comments": 106
+        },
+        {
+          "title": "CL40 World - EURO STREET FILES",
+          "publish_date": "2026-03-04",
+          "visibility": "Public",
+          "views": 15715,
+          "comments": 43
+        },
+        {
+          "title": "CL40 World | URBANA LEYENDA",
+          "publish_date": "2025-08-24",
+          "visibility": "Public",
+          "views": 10171,
+          "comments": 12
+        }
+      ]
+    },
+    "tiktok_analytics_reference": {
+      "views": 407048,
+      "video_creations": 465,
+      "favorites": 82,
+      "shares": 850,
+      "likes": 29000,
+      "comments": 795,
+      "date_range": "2025-05-28 to 2026-05-27",
+      "source": "Symphonic TikTok Analytics"
+    },
+    "canonical_contacts": [
+      "https://cl40.contact",
+      "https://founder.cl40.world",
+      "https://china.cl40.world"
+    ]
+  }
+}
